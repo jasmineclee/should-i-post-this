@@ -1,0 +1,119 @@
+
+
+body {
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 5%;
+}
+
+.question {
+	font-size: 3em;
+	width: 60%;
+	margin: 0 auto;
+	padding-bottom: 5%;
+}
+
+.start-q {
+	font-size: 1.3em;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.emoji-start {
+	font-size: 4em;
+	padding-bottom: 3%;
+}
+
+.start-emph {
+	color: turquoise; 
+	font-size: 2em; 
+	padding-bottom: 3%; 
+	font-family: 'Inconsolata', sans-serif;
+	text-transform: uppercase;
+	padding-top: 3%;
+}
+
+.header {
+	margin: 0 auto;
+	text-align: center;
+/*	padding-bottom: 8%;*/
+}
+
+.posting-q, .lang, .no-way, .drinking, .dude-dont, .status-type, .spare-us, .details, .one-word, .slander, .jerk, .care, .go-for-it, .clothes, .back-on, .illegal, .bf-gf, .together, .over-it, .feet, .prob-not {
+	margin-top: 6em;
+	text-align: center;
+}
+
+.start {
+	margin-top: 3em;
+	text-align: center;
+}
+
+.posting-q, .lang, .no-way, .drinking, .dude-dont, .status-type, .spare-us, .details, .one-word, .slander, .jerk, .care, .go-for-it, .clothes, .back-on, .illegal, .bf-gf, .together, .over-it, .feet, .prob-not {
+	display: none;
+}
+
+.title {
+	font-size: 4em;
+	font-family: 'Inconsolata', sans-serif;
+	text-transform: uppercase;
+	margin: 0;x
+}
+
+
+/*footer {
+	text-align: center;
+	padding-top: 15%;
+	font-size: .8em;
+	font-family: 'Inconsolata', sans-serif;
+	text-transform: uppercase;
+}*/
+
+
+.footer {
+	text-align: center;
+	padding-top: 15%;
+	font-size: .8em;
+	font-family: 'Inconsolata', sans-serif;
+	text-transform: uppercase;
+}
+
+button {
+	width: 300px;
+	height: 100px;
+	font-family: 'Inconsolata', sans-serif;
+	font-size: 1em;
+	text-transform: uppercase;
+	border: none;
+	margin: .5em;
+}
+
+.try-again {
+	font-family: 'Inconsolata', sans-serif;
+	text-transform: uppercase;
+}
+
+.reason {
+	padding-bottom: 3em;
+	margin: 0 auto;
+	width: 50%;
+	font-size: 1.1em;
+}
+
+a {
+	text-decoration: none;
+	color: turquoise;
+}
+
+a:hover {
+	color: gray;
+}
+
+
+
+
+
+
+
